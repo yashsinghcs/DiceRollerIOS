@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  DiceRoller
 //
-//  Created by Sandeep Singh on 28/12/20.
+//  Created by Yash Kumar Singh on 28/12/20.
 //
 
 import SwiftUI
